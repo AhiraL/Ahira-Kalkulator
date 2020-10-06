@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ahira Kalkulator</string>
+    <string name="judul">KALKULATOR</string>
+    <string name="hint_angka1">Masukan angka pertama</string>
+    <string name="hint_angka2">Masukan angka kedua</string>
+</resources>
